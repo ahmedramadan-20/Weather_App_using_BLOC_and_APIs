@@ -1,6 +1,6 @@
 # weather app 
 
-A new Flutter with flutter and bloc project with beautiful UI.
+A new Flutter with flutter using bloc and API project with beautiful UI.
 
 ## Screenshots
 ![Screen](./assets/screens/1.png )
