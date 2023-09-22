@@ -1,6 +1,16 @@
-# weatherapp
+# weather app 
 
-A new Flutter project.
+A new Flutter with flutter and bloc project with beautiful UI.
+
+## Screenshots
+![Screen](./assets/screens/1.png )
+
+
+## Result 
+![Result](./assets/screens/result.gif )
+
+
+
 
 ## Getting Started
 
