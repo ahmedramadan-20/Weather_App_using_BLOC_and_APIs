@@ -140,7 +140,7 @@ class HomeScreen extends StatelessWidget {
                             const SizedBox(
                               width: 5,
                             ),
-                            Column(
+                            const Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Text(
@@ -173,7 +173,7 @@ class HomeScreen extends StatelessWidget {
                             const SizedBox(
                               width: 5,
                             ),
-                            Column(
+                            const Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Text(
@@ -220,7 +220,7 @@ class HomeScreen extends StatelessWidget {
                             const SizedBox(
                               width: 5,
                             ),
-                            Column(
+                            const Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Text(
@@ -253,7 +253,7 @@ class HomeScreen extends StatelessWidget {
                             const SizedBox(
                               width: 5,
                             ),
-                            Column(
+                            const Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
                                 Text(
