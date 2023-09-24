@@ -3,11 +3,11 @@
 A new Flutter with flutter using bloc and API project with beautiful UI.
 
 ## Screenshots
-![Screen](./assets/screens/1st.png )
+<img src="https://github.com/ahmedramadan-20/Weather_App_using_BLOC_and_APIs/blob/master/assets/screens/1.png" height="400">
 
 
 ## Result 
-![Result](./assets/screens/result.gif )
+<img src="https://github.com/ahmedramadan-20/Weather_App_using_BLOC_and_APIs/blob/master/assets/screens/result.gif" height="400">
 
 
 
